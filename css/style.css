@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
 
 
 :root {
@@ -17,7 +17,7 @@
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   color: #333;
   line-height: 1.6;
 }
